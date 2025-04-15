@@ -1,9 +1,13 @@
 # Catppuccin for zsh
 
 <p align="center">
-	<img src="assets/catwalk.webp"/>
+	<img src="assets/preview.png"/>
 </p>
+<sub>
+    - gnome terminal, mocha variant, show_time disabled, monaspace neon font
+</sub>
 
+<!--
 ## Previews
 
 <details>
@@ -22,6 +26,7 @@
 <summary>🌿 Mocha</summary>
 <img src="assets/mocha.webp"/>
 </details>
+--->
 
 ## Installation
 ### Using [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
